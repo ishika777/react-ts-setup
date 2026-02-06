@@ -5,7 +5,7 @@ import dotenv from "dotenv"
 dotenv.config({debug: true});
 
 
-//  add .gitignore in backend folder 
+//  add .env in .gitignore for deployment
 
 
 const app = express();
